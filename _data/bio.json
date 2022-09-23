@@ -1,42 +1,40 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Divesh Bakshani",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/diveshbakshani.png",
+    "email": "diveshma@buffalo.edu",
+    "phone": "716-305-0295",
+    "website": "https://diveshbakshani.github.io",
+    "summary": "Currently a student pursuing MS in Computer Science and Engineering at the University of Buffalo, SUNY. I expect to graduate December 2022",
+    "location": { "address": "Buffalo, NY", "postalCode": "14215", "city": "Buffalo", "countryCode": "USA", "region": "New York" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/diveshbakshani" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/diveshbakshani" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Machine Learning" },
+    { "name": "Reinforcement Learning" },
+    { "name": "Computer Security" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "C", "C++", "Java", "R", "Django", "Flask" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Arch Linux", "Ubuntu (Any Unix basd OS)", "Git/GitHub", "sqlite", "MySQL" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "institution": "University of Buffalo, SUNY",
+      "area": "Computer Science (expected Spring, 2022)",
+      "studyType": "M.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
